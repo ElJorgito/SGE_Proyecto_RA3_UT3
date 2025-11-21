@@ -68,37 +68,37 @@
 **Dónde**: Clic en un registro desde la lista.  
 **Comprobación**: tipo `form`.  
 **Capturas**:  
-![Formulario Contacto](../assets/img/02-form/paso01_vista-form-contacto.png "Vista Form")
+![Formulario Contacto](../assets/img/02-form/02-form-formulario.png)
 
 ### 03 Kanban
 **Dónde**: CRM → Oportunidades → icono columnas.  
 **Comprobación**: tipo `kanban`.  
 **Capturas**:  
-![Kanban CRM](../assets/img/03-kanban/paso01_kanban-crm.png "Kanban CRM")
+![Kanban CRM](../assets/img/03-kanban/03-kanban-kanban.png)
 
 ### 04 Search
 **Dónde**: Barra superior en listas/kanban.  
 **Comprobación**: tipo `search` (estructura técnica).  
 **Capturas**:  
-![Search](../assets/img/04-search/paso01_search-filtros.png "Search/Filtros")
+![Search](../assets/img/04-search/04-search-buscar.png)
 
 ### 05 Calendar
 **Dónde**: Calendario / Project / CRM.  
 **Comprobación**: tipo `calendar`.  
 **Capturas**:  
-![Calendar](../assets/img/05-calendar/paso01_calendar.png "Calendar")
+![Calendar](../assets/img/05-calendar/05-calendar-calendario.png)
 
 ### 06 Graph
 **Dónde**: *Reporting* en varios módulos.  
 **Comprobación**: tipo `graph`.  
 **Capturas**:  
-![Graph](../assets/img/06-graph/paso01_graph.png "Graph")
+![Graph](../assets/img/06-graph/06-graph-grafica.png)
 
 ### 07 Pivot
 **Dónde**: *Reporting*.  
 **Comprobación**: tipo `pivot`.  
 **Capturas**:  
-![Pivot](../assets/img/07-pivot/paso01_pivot.png "Pivot")
+![Pivot](../assets/img/07-pivot/07-pivot-pivot.png)
 
 ---
 
