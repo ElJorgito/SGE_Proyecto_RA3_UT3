@@ -108,7 +108,7 @@
 **Dónde**: CRM → Oportunidades → icono **reloj**.  
 **Comprobación**: tipo `activity`.  
 **Capturas**:  
-![Activity](../assets/img/08-activity/paso01_activity.png "Activity")
+![Activity](../assets/img/08-activity/08-activity-activity.png)
 
 ### 09 Cohort (Enterprise)
 **Dónde**: CRM/Helpdesk/Suscripciones → *Reporting → Cohort*.  
