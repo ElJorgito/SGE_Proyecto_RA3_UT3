@@ -62,7 +62,7 @@
 **Cómo llegar**: Navega al menú, pulsa el **icono de tabla**.  
 **Comprobación (dev mode)**: *Editar vista* → tipo `tree`.  
 **Capturas**:  
-![Lista Contactos](../assets/img/01-list/paso01_vista-lista-contactos.png "Vista List/Tree en Contactos")
+![Lista Contactos](../assets/img/01-list/01-list-lista.png) 
 
 ### 02 Form
 **Dónde**: Clic en un registro desde la lista.  
