@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/Reto_01_Vistas_Odoo19_Jorge_Cantero_López/docs/00-vistas_odoo19.md",
+                "file": "retos/Reto_01_Vistas_Odoo19_Jorge_Cantero_López/docs/99-bibliografia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-vistas_odoo19"
+              "title": "99-bibliografia"
             }
           }
         ]
@@ -185,7 +185,7 @@
   },
   "active": "75c15ee7cb1c4243",
   "lastOpenFiles": [
-    "retos/Reto_01_Vistas_Odoo19_Jorge_Cantero_López/docs/99-bibliografia.md",
-    "retos/Reto_01_Vistas_Odoo19_Jorge_Cantero_López/docs/00-vistas_odoo19.md"
+    "retos/Reto_01_Vistas_Odoo19_Jorge_Cantero_López/docs/00-vistas_odoo19.md",
+    "retos/Reto_01_Vistas_Odoo19_Jorge_Cantero_López/docs/99-bibliografia.md"
   ]
 }
