@@ -1,5 +1,5 @@
-# Vistas en Odoo 19 — {Nombre Apellidos}
-**Reto:** Reto_01_Vistas_Odoo19_{Nombre}_{Apellidos}  
+# Vistas en Odoo 19 — {Jorge Cantero López}
+**Reto:** Reto_01_Vistas_Odoo19_Jorge_Cantero_López  
 **Proyecto:** Proyecto_RA3_UT3  
 **Fecha:** 2025-11-21
 
@@ -131,7 +131,7 @@
 **Comprobación**: tipo `grid`.  
 **Alternativa**: documentación oficial (URL visible).  
 **Capturas**:  
-![Grid](../assets/img/11-grid/paso01_grid.png "Grid")
+![Grid](../assets/img/11-grid/11-grid-grids.png)
 
 ### 12 Map (Enterprise)
 **Dónde**: Contactos / CRM (con módulo de mapas).  
