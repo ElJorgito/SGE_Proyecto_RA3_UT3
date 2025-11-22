@@ -137,14 +137,15 @@
 **Dónde**: Contactos / CRM (con módulo de mapas).  
 **Comprobación**: tipo `map`.  
 **Alternativa**: documentación oficial (URL visible).  
+> La vista de mapa  se utiliza para visualizar los registros en un mapa. Por ejemplo, es posible utilizarla en la aplicación Servicio de campo para organizar un itinerario entre diferentes tareas.  
 **Capturas**:  
-![Map](../assets/img/12-map/paso01_map.png "Map")
+![Map](../assets/img/12-map/12-map-mapa.png)
 
 ### 13 Hierarchy
 **Dónde**: RRHH → Empleados → Departamentos → **Hierarchy**.  
 **Comprobación**: tipo `hierarchy`.  
 **Capturas**:  
-![Hierarchy](../assets/img/13-hierarchy/paso01_hierarchy.png "Hierarchy")
+![Hierarchy](../assets/img/13-hierarchy/13-hierarchy-jerarquia.png)
 
 ### 14 QWeb (reportes/dashboards)
 **Dónde**: Factura → **Imprimir Factura**, o dashboards.  
@@ -156,8 +157,8 @@
 
 ## Checklist final
 - [ ] Todas las **vistas cubiertas** (o alternativa con documentación oficial).
-- [ ] **Developer Mode** usado y **tipo de vista verificado** en cada sección.
-- [ ] **Capturas nítidas**, rutas relativas correctas y `alt/title` informativos.
-- [ ] Se indica **cómo llegar** a cada vista desde el menú.
-- [ ] **Bibliografía** con fuentes oficiales / artículos técnicos.
-- [ ] **PDF único** consolidado generado a partir del Markdown.
+- [✔] **Developer Mode** usado y **tipo de vista verificado** en cada sección.
+- [✔] **Capturas nítidas**, rutas relativas correctas y `alt/title` informativos.
+- [✔] Se indica **cómo llegar** a cada vista desde el menú.
+- [✔] **Bibliografía** con fuentes oficiales / artículos técnicos.
+- [✔] **PDF único** consolidado generado a partir del Markdown.
