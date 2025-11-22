@@ -114,15 +114,17 @@
 **Dónde**: CRM/Helpdesk/Suscripciones → *Reporting → Cohort*.  
 **Comprobación**: tipo `cohort`.  
 **Alternativa**: si no está disponible, captura de **documentación oficial** (URL visible) + explicación.  
+> La vista de cohorte  se utiliza para examinar el ciclo de vida de los registros durante un plazo específico. Por ejemplo, es posible utilizarla en la aplicación Suscripciones para ver la tasa de retención.
 **Capturas**:  
-![Cohort](../assets/img/09-cohort/paso01_cohort.png "Cohort")
+![Cohort](../assets/img/09-cohort/09-cohort-cohorte.png)
 
 ### 10 Gantt (Enterprise)
 **Dónde**: Project/Planning → icono **Gantt**.  
 **Comprobación**: tipo `gantt`.  
-**Alternativa**: documentación oficial (URL visible).  
+**Alternativa**: documentación oficial (URL visible). 
+> La vista de Gantt  se utiliza para pronosticar y examinar el progreso general de los registros, estos están representados con una barra que se encuentra abajo de la medida de tiempo. 
 **Capturas**:  
-![Gantt](../assets/img/10-gantt/paso01_gantt.png "Gantt")
+![Gantt](../assets/img/10-gantt/10-gantt-gantt.png)
 
 ### 11 Grid (Enterprise)
 **Dónde**: Planning / Forecast / Timesheets.  
